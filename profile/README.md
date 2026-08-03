@@ -1,16 +1,54 @@
-# 🌸 Mirha Cosmetics
+<div align="center">
 
-<p align="center">
-  <img src="https://mirhacosmetics.com/cdn/shop/files/logo.png" width="180" alt="Mirha Cosmetics Logo">
-</p>
+<img src="logo.png" width="220" alt="Mirha Cosmetics Logo"/>
 
-<h3 align="center">
-Premium Skincare & Beauty Brand
-</h3>
+# ✨ Mirha Cosmetics
 
-<p align="center">
-Official GitHub Organization of <strong>Mirha Cosmetics</strong>.
-</p>
+### Premium Skincare & Beauty Brand
+
+[🌐 Website](https://mirhacosmetics.com)
+
+---
+
+### Beauty • Quality • Innovation
+
+</div>
+
+## 👋 Welcome
+
+Welcome to the official GitHub profile of **Mirha Cosmetics**.
+
+We develop premium skincare products and modern digital solutions for our beauty brand, including Shopify development, SEO optimization, web technologies, and automation.
+
+---
+
+## 🌸 Our Products
+
+- 🍊 Vitamin C Face Wash
+- 🧴 Facial Cleanser
+- 💧 Face Serum
+- ☀️ Sun Block
+- 🤍 Gluta Whitening Face Wash
+- 🖤 Charcoal Whitening Face Wash
+- 🥑 Avocado Brightening Collection
+- 🍓 Strawberry Whitening Scrub
+- ✨ Urgent Facial Kit
+- 💇 Hair Care Collection
+
+---
+
+## 🚀 What We Work On
+
+- Shopify Development
+- Custom Shopify Themes
+- HTML5
+- CSS3
+- JavaScript
+- Liquid
+- Git & GitHub
+- SEO
+- AI Automation
+- Digital Marketing
 
 ---
 
@@ -20,54 +58,34 @@ https://mirhacosmetics.com
 
 ---
 
-## 💄 Our Products
-
-- Vitamin C Face Wash
-- Vitamin C Face Serum
-- Facial Cleanser
-- Sun Block SPF
-- Charcoal Face Wash
-- Gluta Whitening Face Wash
-- Hair Shampoo
-- Hair Conditioner
-- Hair Oil
-
----
-
-## 🚀 Technologies
-
-- Shopify
-- HTML5
-- CSS3
-- JavaScript
-- Liquid
-- GitHub Actions
-- SEO
-- JSON
-- REST API
-
----
-
-## 📦 Repositories
-
-- Website
-- Shopify Theme
-- SEO Tools
-- Documentation
-- Product Images
-
----
-
 ## 📧 Contact
 
-🌐 https://mirhacosmetics.com
+**Website**
+https://mirhacosmetics.com
 
-📧 admin@mirhacosmetics.com
-
-📱 WhatsApp
-
-+92 318 0655033
+**Email**
+admin@mirhacosmetics.com
 
 ---
 
-© 2026 Mirha Cosmetics
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🌟 Mission
+
+Creating premium skincare products with innovation, quality, and customer satisfaction.
+
+---
+
+<div align="center">
+
+### ⭐ Thank you for visiting Mirha Cosmetics
+
+**Please follow our GitHub profile for future projects and updates.**
+
+</div>
